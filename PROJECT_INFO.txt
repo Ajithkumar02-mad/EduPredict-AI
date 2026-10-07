@@ -1,0 +1,19 @@
+EduPredict AI
+Advanced Student Performance Prediction Using Machine Learning
+
+Primary Algorithm:
+- Support Vector Machine (SVM)
+
+Additional Models:
+- Random Forest
+- Logistic Regression
+- Gradient Boosting
+
+Application:
+- Streamlit
+
+Dataset:
+- 600 synthetically generated student records
+
+Target:
+- Pass / Fail
